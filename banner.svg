@@ -1,0 +1,32 @@
+<svg viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b2545"/>
+      <stop offset="50%" stop-color="#134a8f"/>
+      <stop offset="100%" stop-color="#1c6fd8"/>
+    </linearGradient>
+    <pattern id="honeycomb" width="56" height="97" patternUnits="userSpaceOnUse" patternTransform="scale(1)">
+      <g fill="none" stroke="#ffffff" stroke-opacity="0.12" stroke-width="1.5">
+        <path d="M28 0 L56 16 L56 48 L28 64 L0 48 L0 16 Z"/>
+        <path d="M28 64 L56 80 L56 112 L28 128 L0 112 L0 80 Z"/>
+        <path d="M-28 16 L0 32 L0 64 L-28 80 L-56 64 L-56 32 Z"/>
+        <path d="M84 16 L112 32 L112 64 L84 80 L56 64 L56 32 Z"/>
+      </g>
+    </pattern>
+    <linearGradient id="fade" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0b2545" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0b2545" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <rect width="1200" height="280" fill="url(#honeycomb)"/>
+  <rect width="1200" height="280" fill="url(#fade)"/>
+
+  <text x="600" y="140" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff">
+    Hi, ich bin Sören 👋
+  </text>
+  <text x="600" y="185" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#cfe3ff">
+    Softwareentwickler mit Fokus auf Python
+  </text>
+</svg>

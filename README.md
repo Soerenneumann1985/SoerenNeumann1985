@@ -1,10 +1,8 @@
 <div align="center">
 
-# Hi, ich bin Sören 👋
+<img src="banner.svg" alt="Banner" width="100%"/>
 
-Softwareentwickler mit Fokus auf Python
-
-<br>
+<br><br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
@@ -27,7 +25,9 @@ Sauberer, gut getesteter Code ist mir wichtig.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Soerenneumann1985&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+![Follower](https://img.shields.io/github/followers/Soerenneumann1985?label=Follower&color=1c6fd8&style=for-the-badge)
+![Letzter Commit](https://img.shields.io/github/last-commit/Soerenneumann1985/penguin-analysis?label=Letzter%20Commit&color=1c6fd8&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Soerenneumann1985&color=1c6fd8&style=for-the-badge&label=Profilaufrufe)
 
 </div>
 
@@ -35,6 +35,6 @@ Sauberer, gut getesteter Code ist mir wichtig.
 
 <div align="center">
 
-📫 Kontakt: [E-Mail hier ergänzen] · 🌐 [Standort hier ergänzen]
+📫 [soerenneumann1985@gmail.com](mailto:soerenneumann1985@gmail.com) · 🌐 Nordenham, Deutschland
 
 </div>
