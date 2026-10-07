@@ -25,8 +25,8 @@ Sauberer, gut getesteter Code ist mir wichtig.
 
 <div align="center">
 
-![Follower](https://img.shields.io/github/followers/Soerenneumann1985?label=Follower&color=1c6fd8&style=for-the-badge)
-![Letzter Commit](https://img.shields.io/github/last-commit/Soerenneumann1985/penguin-analysis?label=Letzter%20Commit&color=1c6fd8&style=for-the-badge)
+[![Follower](https://img.shields.io/github/followers/Soerenneumann1985?label=Folgen&logo=github&color=1c6fd8&style=for-the-badge)](https://github.com/Soerenneumann1985)
+[![Letzter Commit](https://img.shields.io/github/last-commit/Soerenneumann1985/penguin-analysis?label=Letzter%20Commit&color=1c6fd8&style=for-the-badge)](https://github.com/Soerenneumann1985/penguin-analysis/commits)
 ![Profile Views](https://komarev.com/ghpvc/?username=Soerenneumann1985&color=1c6fd8&style=for-the-badge&label=Profilaufrufe)
 
 </div>
