@@ -46,14 +46,21 @@ Prozesse automatisieren, Fehler systematisch finden und sauber dokumentieren.
 
 ## 📂 Projekte
 
-**[penguin-analysis](https://github.com/Soerenneumann1985/penguin-analysis)** — Datenanalyse & Visualisierung mit pandas und seaborn
+| Projekt | Beschreibung | Tech |
+|---|---|---|
+| ✈️ **[SKY-SQL-2](https://github.com/Soerenneumann1985/SKY-SQL-2)** | Web-App, CLI und JSON-API zum Durchsuchen von US-Flugverspätungsdaten, mit CSV-Export und CI | Python · SQLite · SQL |
+| ☁️ **[AWS_grocery](https://github.com/Soerenneumann1985/AWS_grocery)** | Fork der E-Commerce-App GroceryMate, Übungsprojekt im Cloud Track | Python · JavaScript · PostgreSQL |
+| 🧾 **[Rechnungsprojekt](https://github.com/Soerenneumann1985/Rechnungsprojekt)** | Sortiert Mitarbeiter-Abrechnungen automatisch in Monatsordner | Python · `os` |
+| 🦁 **[My-Zootopia](https://github.com/Soerenneumann1985/My-Zootopia)** | Lädt Tierdaten über eine API und erzeugt daraus eine Webseite | Python · API · HTML |
+| ⛄ **[Snowman-Meltdown](https://github.com/Soerenneumann1985/Snowman-Meltdown)** | Konsolen-Ratespiel, sauber in Module aufgeteilt | Python |
+| 🐧 **[penguin-analysis](https://github.com/Soerenneumann1985/penguin-analysis)** | Datenanalyse & Visualisierung | Python · pandas · seaborn |
 
 <br>
 
 <div align="center">
 
 [![Follower](https://img.shields.io/github/followers/Soerenneumann1985?label=Folgen&logo=github&color=1c6fd8&style=for-the-badge)](https://github.com/Soerenneumann1985)
-[![Letzter Commit](https://img.shields.io/github/last-commit/Soerenneumann1985/penguin-analysis?label=Letzter%20Commit&color=1c6fd8&style=for-the-badge)](https://github.com/Soerenneumann1985/penguin-analysis/commits)
+[![Letzter Commit](https://img.shields.io/github/last-commit/Soerenneumann1985/SKY-SQL-2?label=Letzter%20Commit&color=1c6fd8&style=for-the-badge)](https://github.com/Soerenneumann1985/SKY-SQL-2/commits)
 ![Profile Views](https://komarev.com/ghpvc/?username=Soerenneumann1985&color=1c6fd8&style=for-the-badge&label=Profilaufrufe)
 
 </div>
